@@ -5,7 +5,7 @@
 Anyway, I am just experimenting with HTML and CSS here. This is an attempt to clone the look and feel of the gmail
 registration page.
 Note that I have used Twitter Bootstrap for styling.
-Check out the screeshot below: ![screenshot](images/screenshot.png])
+Check out the screeshot below: ![screenshot](images/screenshot.png)
 
 ## Why am I doing this?
 
